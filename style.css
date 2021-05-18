@@ -1,0 +1,51 @@
+.leftmost {
+    text-align: left;
+}
+
+.rightmost {
+    text-align: right;
+}
+
+.centermost {
+    text-align: center;
+}
+
+#white1 {
+    color: white;
+}
+
+#black1 {
+    color: black;
+}
+
+#black2 {
+    color: black;
+}
+
+.blackback {
+    background-color: black;
+}
+
+.purpleback {
+    background-color: purple;
+}
+
+.blueback {
+    background-color: rgb(119, 169, 226);
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.comics {
+    font-family: sans-serif;
+}
+
+span {
+    color: cornflowerblue;
+}
+
+.italics {
+    font-style: italic;
+}
